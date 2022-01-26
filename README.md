@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsexactly&date_format=j%20M%5B%20Y%5D&ring=AD0000&fire=FF9300&background=000000&border=B7
+
 <!--
 **tsexactly/tsexactly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
