@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsexactly&date_format=j%20M%5B%20Y%5D&ring=AD0000&fire=FF9300&background=000000&border=B70000&stroke=000000&currStreakNum=DDDDDD&currStreakLabel=FF9300&sideNums=B7B7B7&sideLabels=FF9300DB&dates=939393B7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tsexactly&theme=gotham)](https://git.io/streak-stats)
 <!--
 **tsexactly/tsexactly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
